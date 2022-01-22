@@ -1,0 +1,384 @@
+.jackbox-talks .Slideshow .photo-core-four-1-thumb, .jackbox-talks .Draw.photo-core-four-1-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-1-thumb, .jackbox-talks .photo.photo-core-four-1-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_1.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-2-thumb, .jackbox-talks .Draw.photo-core-four-2-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-2-thumb, .jackbox-talks .photo.photo-core-four-2-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_2.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-3-thumb, .jackbox-talks .Draw.photo-core-four-3-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-3-thumb, .jackbox-talks .photo.photo-core-four-3-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_3.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-4-thumb, .jackbox-talks .Draw.photo-core-four-4-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-4-thumb, .jackbox-talks .photo.photo-core-four-4-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_4.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-5-thumb, .jackbox-talks .Draw.photo-core-four-5-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-5-thumb, .jackbox-talks .photo.photo-core-four-5-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_5.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-6-thumb, .jackbox-talks .Draw.photo-core-four-6-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-6-thumb, .jackbox-talks .photo.photo-core-four-6-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_6.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-7-thumb, .jackbox-talks .Draw.photo-core-four-7-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-7-thumb, .jackbox-talks .photo.photo-core-four-7-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_7.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-8-thumb, .jackbox-talks .Draw.photo-core-four-8-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-8-thumb, .jackbox-talks .photo.photo-core-four-8-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_8.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-9-thumb, .jackbox-talks .Draw.photo-core-four-9-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-9-thumb, .jackbox-talks .photo.photo-core-four-9-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_9.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-10-thumb, .jackbox-talks .Draw.photo-core-four-10-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-10-thumb, .jackbox-talks .photo.photo-core-four-10-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_10.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-11-thumb, .jackbox-talks .Draw.photo-core-four-11-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-11-thumb, .jackbox-talks .photo.photo-core-four-11-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_11.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-12-thumb, .jackbox-talks .Draw.photo-core-four-12-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-12-thumb, .jackbox-talks .photo.photo-core-four-12-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_12.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-13-thumb, .jackbox-talks .Draw.photo-core-four-13-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-13-thumb, .jackbox-talks .photo.photo-core-four-13-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_13.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-14-thumb, .jackbox-talks .Draw.photo-core-four-14-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-14-thumb, .jackbox-talks .photo.photo-core-four-14-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_14.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-15-thumb, .jackbox-talks .Draw.photo-core-four-15-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-15-thumb, .jackbox-talks .photo.photo-core-four-15-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_15.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-16-thumb, .jackbox-talks .Draw.photo-core-four-16-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-16-thumb, .jackbox-talks .photo.photo-core-four-16-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_16.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-17-thumb, .jackbox-talks .Draw.photo-core-four-17-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-17-thumb, .jackbox-talks .photo.photo-core-four-17-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_17.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-18-thumb, .jackbox-talks .Draw.photo-core-four-18-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-18-thumb, .jackbox-talks .photo.photo-core-four-18-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_18.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-19-thumb, .jackbox-talks .Draw.photo-core-four-19-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-19-thumb, .jackbox-talks .photo.photo-core-four-19-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_19.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-20-thumb, .jackbox-talks .Draw.photo-core-four-20-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-20-thumb, .jackbox-talks .photo.photo-core-four-20-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_20.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-21-thumb, .jackbox-talks .Draw.photo-core-four-21-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-21-thumb, .jackbox-talks .photo.photo-core-four-21-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_21.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-22-thumb, .jackbox-talks .Draw.photo-core-four-22-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-22-thumb, .jackbox-talks .photo.photo-core-four-22-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_22.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-23-thumb, .jackbox-talks .Draw.photo-core-four-23-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-23-thumb, .jackbox-talks .photo.photo-core-four-23-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_23.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-24-thumb, .jackbox-talks .Draw.photo-core-four-24-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-24-thumb, .jackbox-talks .photo.photo-core-four-24-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_24.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-25-thumb, .jackbox-talks .Draw.photo-core-four-25-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-25-thumb, .jackbox-talks .photo.photo-core-four-25-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_25.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-26-thumb, .jackbox-talks .Draw.photo-core-four-26-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-26-thumb, .jackbox-talks .photo.photo-core-four-26-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_26.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-27-thumb, .jackbox-talks .Draw.photo-core-four-27-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-27-thumb, .jackbox-talks .photo.photo-core-four-27-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_27.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-28-thumb, .jackbox-talks .Draw.photo-core-four-28-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-28-thumb, .jackbox-talks .photo.photo-core-four-28-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_28.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-29-thumb, .jackbox-talks .Draw.photo-core-four-29-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-29-thumb, .jackbox-talks .photo.photo-core-four-29-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_29.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-30-thumb, .jackbox-talks .Draw.photo-core-four-30-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-30-thumb, .jackbox-talks .photo.photo-core-four-30-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_30.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-31-thumb, .jackbox-talks .Draw.photo-core-four-31-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-31-thumb, .jackbox-talks .photo.photo-core-four-31-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_31.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-32-thumb, .jackbox-talks .Draw.photo-core-four-32-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-32-thumb, .jackbox-talks .photo.photo-core-four-32-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_32.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-33-thumb, .jackbox-talks .Draw.photo-core-four-33-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-33-thumb, .jackbox-talks .photo.photo-core-four-33-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_33.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-34-thumb, .jackbox-talks .Draw.photo-core-four-34-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-34-thumb, .jackbox-talks .photo.photo-core-four-34-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_34.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-35-thumb, .jackbox-talks .Draw.photo-core-four-35-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-35-thumb, .jackbox-talks .photo.photo-core-four-35-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_35.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-36-thumb, .jackbox-talks .Draw.photo-core-four-36-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-36-thumb, .jackbox-talks .photo.photo-core-four-36-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_36.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-37-thumb, .jackbox-talks .Draw.photo-core-four-37-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-37-thumb, .jackbox-talks .photo.photo-core-four-37-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_37.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-38-thumb, .jackbox-talks .Draw.photo-core-four-38-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-38-thumb, .jackbox-talks .photo.photo-core-four-38-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_38.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-39-thumb, .jackbox-talks .Draw.photo-core-four-39-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-39-thumb, .jackbox-talks .photo.photo-core-four-39-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_39.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-40-thumb, .jackbox-talks .Draw.photo-core-four-40-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-40-thumb, .jackbox-talks .photo.photo-core-four-40-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_40.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-41-thumb, .jackbox-talks .Draw.photo-core-four-41-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-41-thumb, .jackbox-talks .photo.photo-core-four-41-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_41.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-42-thumb, .jackbox-talks .Draw.photo-core-four-42-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-42-thumb, .jackbox-talks .photo.photo-core-four-42-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_42.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-43-thumb, .jackbox-talks .Draw.photo-core-four-43-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-43-thumb, .jackbox-talks .photo.photo-core-four-43-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_43.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-44-thumb, .jackbox-talks .Draw.photo-core-four-44-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-44-thumb, .jackbox-talks .photo.photo-core-four-44-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_44.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-45-thumb, .jackbox-talks .Draw.photo-core-four-45-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-45-thumb, .jackbox-talks .photo.photo-core-four-45-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_45.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-46-thumb, .jackbox-talks .Draw.photo-core-four-46-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-46-thumb, .jackbox-talks .photo.photo-core-four-46-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_46.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-47-thumb, .jackbox-talks .Draw.photo-core-four-47-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-47-thumb, .jackbox-talks .photo.photo-core-four-47-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_47.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-48-thumb, .jackbox-talks .Draw.photo-core-four-48-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-48-thumb, .jackbox-talks .photo.photo-core-four-48-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_48.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-49-thumb, .jackbox-talks .Draw.photo-core-four-49-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-49-thumb, .jackbox-talks .photo.photo-core-four-49-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_49.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-50-thumb, .jackbox-talks .Draw.photo-core-four-50-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-50-thumb, .jackbox-talks .photo.photo-core-four-50-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_50.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-51-thumb, .jackbox-talks .Draw.photo-core-four-51-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-51-thumb, .jackbox-talks .photo.photo-core-four-51-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_51.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-52-thumb, .jackbox-talks .Draw.photo-core-four-52-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-52-thumb, .jackbox-talks .photo.photo-core-four-52-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_52.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-53-thumb, .jackbox-talks .Draw.photo-core-four-53-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-53-thumb, .jackbox-talks .photo.photo-core-four-53-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_53.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-54-thumb, .jackbox-talks .Draw.photo-core-four-54-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-54-thumb, .jackbox-talks .photo.photo-core-four-54-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_54.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-55-thumb, .jackbox-talks .Draw.photo-core-four-55-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-55-thumb, .jackbox-talks .photo.photo-core-four-55-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_55.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-56-thumb, .jackbox-talks .Draw.photo-core-four-56-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-56-thumb, .jackbox-talks .photo.photo-core-four-56-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_56.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-57-thumb, .jackbox-talks .Draw.photo-core-four-57-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-57-thumb, .jackbox-talks .photo.photo-core-four-57-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_57.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-58-thumb, .jackbox-talks .Draw.photo-core-four-58-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-58-thumb, .jackbox-talks .photo.photo-core-four-58-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_58.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-59-thumb, .jackbox-talks .Draw.photo-core-four-59-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-59-thumb, .jackbox-talks .photo.photo-core-four-59-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_59.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-60-thumb, .jackbox-talks .Draw.photo-core-four-60-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-60-thumb, .jackbox-talks .photo.photo-core-four-60-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_60.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-61-thumb, .jackbox-talks .Draw.photo-core-four-61-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-61-thumb, .jackbox-talks .photo.photo-core-four-61-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_61.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-62-thumb, .jackbox-talks .Draw.photo-core-four-62-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-62-thumb, .jackbox-talks .photo.photo-core-four-62-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_62.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-63-thumb, .jackbox-talks .Draw.photo-core-four-63-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-63-thumb, .jackbox-talks .photo.photo-core-four-63-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_63.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-64-thumb, .jackbox-talks .Draw.photo-core-four-64-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-64-thumb, .jackbox-talks .photo.photo-core-four-64-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_64.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-65-thumb, .jackbox-talks .Draw.photo-core-four-65-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-65-thumb, .jackbox-talks .photo.photo-core-four-65-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_65.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-66-thumb, .jackbox-talks .Draw.photo-core-four-66-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-66-thumb, .jackbox-talks .photo.photo-core-four-66-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_66.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-67-thumb, .jackbox-talks .Draw.photo-core-four-67-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-67-thumb, .jackbox-talks .photo.photo-core-four-67-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_67.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-68-thumb, .jackbox-talks .Draw.photo-core-four-68-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-68-thumb, .jackbox-talks .photo.photo-core-four-68-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_68.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-69-thumb, .jackbox-talks .Draw.photo-core-four-69-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-69-thumb, .jackbox-talks .photo.photo-core-four-69-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_69.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-70-thumb, .jackbox-talks .Draw.photo-core-four-70-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-70-thumb, .jackbox-talks .photo.photo-core-four-70-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_70.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-71-thumb, .jackbox-talks .Draw.photo-core-four-71-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-71-thumb, .jackbox-talks .photo.photo-core-four-71-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_71.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-72-thumb, .jackbox-talks .Draw.photo-core-four-72-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-72-thumb, .jackbox-talks .photo.photo-core-four-72-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_72.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-73-thumb, .jackbox-talks .Draw.photo-core-four-73-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-73-thumb, .jackbox-talks .photo.photo-core-four-73-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_73.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-74-thumb, .jackbox-talks .Draw.photo-core-four-74-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-74-thumb, .jackbox-talks .photo.photo-core-four-74-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_74.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-75-thumb, .jackbox-talks .Draw.photo-core-four-75-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-75-thumb, .jackbox-talks .photo.photo-core-four-75-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_75.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-76-thumb, .jackbox-talks .Draw.photo-core-four-76-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-76-thumb, .jackbox-talks .photo.photo-core-four-76-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_76.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-77-thumb, .jackbox-talks .Draw.photo-core-four-77-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-77-thumb, .jackbox-talks .photo.photo-core-four-77-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_77.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-78-thumb, .jackbox-talks .Draw.photo-core-four-78-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-78-thumb, .jackbox-talks .photo.photo-core-four-78-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_78.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-79-thumb, .jackbox-talks .Draw.photo-core-four-79-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-79-thumb, .jackbox-talks .photo.photo-core-four-79-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_79.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-80-thumb, .jackbox-talks .Draw.photo-core-four-80-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-80-thumb, .jackbox-talks .photo.photo-core-four-80-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_80.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-81-thumb, .jackbox-talks .Draw.photo-core-four-81-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-81-thumb, .jackbox-talks .photo.photo-core-four-81-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_81.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-82-thumb, .jackbox-talks .Draw.photo-core-four-82-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-82-thumb, .jackbox-talks .photo.photo-core-four-82-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_82.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-83-thumb, .jackbox-talks .Draw.photo-core-four-83-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-83-thumb, .jackbox-talks .photo.photo-core-four-83-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_83.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-84-thumb, .jackbox-talks .Draw.photo-core-four-84-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-84-thumb, .jackbox-talks .photo.photo-core-four-84-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_84.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-85-thumb, .jackbox-talks .Draw.photo-core-four-85-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-85-thumb, .jackbox-talks .photo.photo-core-four-85-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_85.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-86-thumb, .jackbox-talks .Draw.photo-core-four-86-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-86-thumb, .jackbox-talks .photo.photo-core-four-86-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_86.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-87-thumb, .jackbox-talks .Draw.photo-core-four-87-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-87-thumb, .jackbox-talks .photo.photo-core-four-87-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_87.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-88-thumb, .jackbox-talks .Draw.photo-core-four-88-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-88-thumb, .jackbox-talks .photo.photo-core-four-88-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_88.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-89-thumb, .jackbox-talks .Draw.photo-core-four-89-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-89-thumb, .jackbox-talks .photo.photo-core-four-89-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_89.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-90-thumb, .jackbox-talks .Draw.photo-core-four-90-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-90-thumb, .jackbox-talks .photo.photo-core-four-90-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_90.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-91-thumb, .jackbox-talks .Draw.photo-core-four-91-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-91-thumb, .jackbox-talks .photo.photo-core-four-91-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_91.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-92-thumb, .jackbox-talks .Draw.photo-core-four-92-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-92-thumb, .jackbox-talks .photo.photo-core-four-92-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_92.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-93-thumb, .jackbox-talks .Draw.photo-core-four-93-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-93-thumb, .jackbox-talks .photo.photo-core-four-93-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_93.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-94-thumb, .jackbox-talks .Draw.photo-core-four-94-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-94-thumb, .jackbox-talks .photo.photo-core-four-94-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_94.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-95-thumb, .jackbox-talks .Draw.photo-core-four-95-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-95-thumb, .jackbox-talks .photo.photo-core-four-95-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_95.jpg");
+}
+
+.jackbox-talks .Slideshow .photo-core-four-96-thumb, .jackbox-talks .Draw.photo-core-four-96-thumb canvas.sketchpad, .jackbox-talks .Awards .photo.photo-core-four-96-thumb, .jackbox-talks .photo.photo-core-four-96-thumb .choice-button {
+    background-image: url("chrome-extension://lieidallnclgkeocpebckoifdignomgf/assets/Core_Four_96.jpg");
+}
+
